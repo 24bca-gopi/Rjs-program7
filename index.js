@@ -8,7 +8,7 @@ const element =React.create Element("h1",null,"welcome to react");
 // TODO 2:
 // Create the React root
 
-const root =React dom.create Root(document.getElementById ("root");
+const root =React dom.createRoot(document.getElementById ("root");
 
 // TODO 3:
 // Render the element

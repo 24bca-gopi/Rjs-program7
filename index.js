@@ -13,4 +13,4 @@ const root =React dom.createRoot(document.getElementById ("root");
 // TODO 3:
 // Render the element
 
-root.render(element);;
+root.render(element);
